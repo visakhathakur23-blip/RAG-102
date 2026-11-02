@@ -1,4 +1,4 @@
-# VRAG –  Retrieval-Augmented Generation
+# RAG –  Retrieval-Augmented Generation
 
 ## Overview
 VRAG is a document search and retrieval project that uses vector search to find relevant information from a collection of books. It combines LangChain, Typesense, and Hugging Face embeddings to support semantic search and retrieval-augmented generation (RAG).
